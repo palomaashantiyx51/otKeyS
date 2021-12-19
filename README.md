@@ -1,0 +1,2 @@
+# otKeyS
+HotKeySet("{MEDIA_PLAY_PAUSE}"  ,"ApplicationLauncher") HotKeySet("{VOLUME_MUTE}"       ,"ApplicationLauncher") HotKeySet("{VOLUME_DOWN}"       ,"ApplicationLauncher") HotKeySet("{VOLUME_UP}"         ,"ApplicationLauncher")  HotKeySet("{BROWSER_HOME}"      ,"ApplicationLauncher") HotKeySet("{LAUNCH_MAIL}"       ,"ApplicationLauncher") HotKeySet("{SLEEP}"             ,"ApplicationLauncher")     ;The only one that doesn't work HotKeySet("{LAUNCH_APP2}"       ,"ApplicationLauncher")
